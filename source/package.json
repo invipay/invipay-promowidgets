@@ -1,0 +1,14 @@
+{
+  "name": "InviPay.Widgets",
+  "version": "1.0.0",
+  "license": "inviPay sp. z o.o.",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-includes": "^0.5.2",
+    "grunt-string-replace": "^1.2.1"
+  }
+}
