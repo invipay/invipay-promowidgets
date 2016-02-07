@@ -1,7 +1,7 @@
 {
   "name": "InviPay.Widgets",
-  "version": "1.0.0",
-  "license": "inviPay sp. z o.o.",
+  "version": "1.0.1",
+  "license": "OSL-3.0",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-clean": "^0.7.0",

@@ -20,7 +20,7 @@ module.exports = function(grunt) {
     'uglify': {
       all: {
         options: {
-          banner: '/*\n<%= pkg.name %>\nVersion: <%= pkg.version %>\nBuild: <%= grunt.template.today("yyyy-mm-dd") %>\nCopyright (C) 2015-<%= grunt.template.today("yyyy") %> <%= pkg.license %>\n*/\n',
+          banner: '/*\n*\t<%= pkg.name %>\n*\n*\t@version: <%= pkg.version %>\n*\t@build: <%= grunt.template.today("yyyy-mm-dd") %>\n*\t@copyright (C) 2015-<%= grunt.template.today("yyyy") %> <%= pkg.license %>\n*\t@author Kuba Pilecki (kpilecki@invipay.com)\n*/\n',
           sourceMap: true,
           sourceMapName: '../InviPay.Widgets.min.map',
           screwIE8: true,

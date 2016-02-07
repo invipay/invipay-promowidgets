@@ -1,6 +1,10 @@
 /**
- * inviPay.com Widgets Library v1.0.0
- * (c) 2016 inviPay sp. z o.o. http://invipay.com
+ * inviPay.com Widgets Library
+ * 
+ *	@author Kuba Pilecki (kpilecki@invipay.com)
+ * 	@version 1.0.1
+ *
+ * Copyright (c) 2016 inviPay sp. z o.o. http://invipay.com
  */
 
 InviPay.Widgets.BasketInfo = function(params, targetElement) {
